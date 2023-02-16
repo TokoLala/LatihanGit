@@ -1,0 +1,25 @@
+Beberapa Command Git Bash Penting yang Perlu Diketahui
+1. git -init 
+Command ditas digunakan untuk menginisialisasi sebuah folder agar menjadi folder git, sehingga dalam folder tersebut dapat menggunakan command git lainnya. Caranya :
+ a. Pastikan telah menginstal git, cara mengeceknya dengan menulis " git -v " dalam command prompt
+ b. Masuk ke dalam folder yang ingin diinisialisasi ( untuk mengetahui command yang biasa digunakan dapat dilihat di artikel COMMAND PROMPT YANG SERING DIGUNAKAN )
+ c. Ketikan " git -init "
+
+2. git status 
+Git status digunakan untuk mengecek apakah ada file baru, file modifikasi, ataupun file yang telah dihapus dalam folder git / perubahan status folder git. Coba saja mengetikan " git status " setelah mengotak atik file / folder dalam yang telah git init.
+
+3. git add 
+Git add digunakan untuk menambahkan file yang telah dirubah dalam folder git. Git add membutuhkan 1 parameter untuk ditambahkan, yaitu nama folder atau file yang telah dirubah atau ditambahkan. Contohnya 
+>git add index.html , bisa juga mengetikkan 
+>git add . (titik menandakan seluruh file yang terjadi perubahan akan di add).
+
+4. git commit 
+Setelah menggunakan " git add . ", biasanya akan dilakukan commit dan menambahakan pesan di dalamnya. Contoh penulisan 
+>git commit -m "menambahkan file baru" (berarti commit dengan pesan menambahkan file baru).
+>git commit -m "ini merupakan tittle massage" -m "ini merupakan description massage."
+
+5. git clone 
+Git clone berarti mengcopy file atau repository dalam git. Biasanya digunakan untuk mengunduh repository dari git hub. Contohnya " git clone git@github.com:arif/demo-repo.git " (tambahan setelah clone merupakan contoh kode SSH yang dapat di copy di git hub)
+
+haruskah ada perubahan?
+6. ok
