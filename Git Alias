@@ -35,3 +35,4 @@ alias gsts='git stash save'
 
 Selian git bash diatas bisa juga menggunakan shortcut function contohnya :
 function glf() { git log --all --grep="$1"; } . Dengan contoh penggunaan : glf "tambahan code" (digunakan untuk mencari commit dengan isi "tambahan code").
+ yopi
