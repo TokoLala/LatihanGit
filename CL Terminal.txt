@@ -1,0 +1,94 @@
+Here are some common commands along with brief descriptions of their functions:
+
+l. Lists files and directories in the current directory.
+Example: ls
+
+2.cd: Changes the current directory.
+Example: cd /path/to/directory
+
+3. pwd: Prints the current working directory.
+Example: pwd
+
+4. mkdir: Creates a new directory.
+Example: mkdir new_directory
+
+5. rmdir: Removes a directory.
+Example: rmdir directory_to_remove
+
+6. cp: Copies files or directories.
+Example: cp source_file destination
+
+7. mv: Moves (or renames) files or directories.
+Example: mv source_file destination
+
+8. rm: Removes (deletes) files or directories.
+Example: rm file_to_remove
+
+9. touch: Creates a new empty file.
+Example: touch new_file
+
+10. cat: Concatenates and displays file content.
+Example: cat file_name
+
+11. less: Displays file content one page at a time.
+Example: less file_name
+
+12. head: Displays the first part of a file.
+Example: head file_name
+
+13. tail: Displays the last part of a file.
+Example: tail file_name
+
+14. grep: Searches for patterns in files.
+Example: grep pattern file_name
+
+15. chmod: Changes file permissions.
+Example: chmod permissions file_name
+
+
+ Here are some more command-line tools for managing files and directories in a terminal environment:
+
+1. find: Searches for files and directories within a directory hierarchy.
+Example: find /path/to/search -name "filename"
+
+2. grep: Searches for patterns in files.
+Example: grep pattern file_name
+
+3. awk: A versatile text processing tool for extracting and manipulating text.
+Example: awk '{print $1}' file_name
+
+4. sed: Stream editor for filtering and transforming text.
+Example: sed 's/old_text/new_text/' file_name
+
+5. tar: Creates and manipulates archive files.
+Example: tar -cvf archive.tar files_to_archive
+
+6. gzip / gunzip: Compresses or decompresses files.
+Example: gzip file_name
+
+7. zip / unzip: Compresses or decompresses files in ZIP format.
+Example: zip -r archive.zip directory_to_compress
+
+8. du: Displays disk usage of files and directories.
+Example: du -sh directory_name
+
+9. df: Displays disk space usage of file systems.
+Example: df -h
+
+10. ln: Creates links between files.
+Example: ln -s /path/to/file link_name
+
+11. sort: Sorts lines of text files.
+Example: sort file_name
+
+12. uniq: Filters out repeated lines in a file.
+Example: uniq file_name
+
+13. wc: Counts lines, words, and characters in a file.
+Example: wc -l file_name
+
+14. tee: Reads from standard input and writes to standard output and files simultaneously.
+Example: command | tee file_name
+
+15. xargs: Builds and executes command lines from standard input.
+Example: find /path -name "*.txt" | xargs rm

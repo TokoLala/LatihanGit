@@ -23,3 +23,8 @@ Git clone berarti mengcopy file atau repository dalam git. Biasanya digunakan un
 
 haruskah ada perubahan?
 6. ok
+
+
+Alur git commit :
+1. Git add . 
+2. Git commit -m "message"
