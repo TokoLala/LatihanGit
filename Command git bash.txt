@@ -49,4 +49,13 @@ https://www.geeksforgeeks.org/git-how-to-solve-remote-invalid-username-or-passwo
 
 Alur git ignore (Tidak mau di publikasi)
 contoh api, authentication, pasword, dsb.
+1. buat file .gitignore
+2. isi dengan file yang tidak ingin dimasukan git
+3. contoh git ignore 
+https://github.com/github/gitignore
+(Contoh pilih Node.gitignore)
+
+Alur git clone :
+Untuk membuat dari project orang lain
+https://github.com/awesome-selfhosted/awesome-selfhosted
 1. 
