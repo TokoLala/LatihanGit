@@ -25,9 +25,13 @@ haruskah ada perubahan?
 6. ok
 
 
+
 Alur git commit :
 1. Git add . (Masuk staging area)
 2. Git commit -m "message" (Masuk ke repository)
+
+cancel staging area :
+1. git rm --cached -r
 
 Alur git checkout : (Untuk mengulangi perintah git)
 1. Not commit and in staging area 
@@ -41,3 +45,8 @@ Alur git push remote origin : (origin adalah nama remote biarkan seperti itu ada
 
 (Cara untuk mengepush jika invlid password)
 https://www.geeksforgeeks.org/git-how-to-solve-remote-invalid-username-or-password-fatal-authentication-failed/
+
+
+Alur git ignore (Tidak mau di publikasi)
+contoh api, authentication, pasword, dsb.
+1. 
