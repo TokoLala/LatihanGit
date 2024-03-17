@@ -26,5 +26,11 @@ haruskah ada perubahan?
 
 
 Alur git commit :
-1. Git add . 
-2. Git commit -m "message"
+1. Git add . (Masuk staging area)
+2. Git commit -m "message" (Masuk ke repository)
+
+Alur git checkout : (Untuk mengulangi perintah git)
+1. Not commit and in staging area 
+2. git diff "file name" (Untuk melihat perbedaan)
+3. git checkout "file name"
+4. git log (untuk check log)
