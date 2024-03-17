@@ -1,3 +1,5 @@
 GIT atau Group Inclusive Tour merupakan alat untuk melakukan version control dalam code yang kita buat. Dalam artian kita dapat membuat, memodifikasi, mengatur pembuatan code atau program dengan menambahkan versi pada setiap progres pekerjaan yang telah kita lakukan.
 
-ADSASFDASG
+
+ini modifikasi branch
+masuk ke branch

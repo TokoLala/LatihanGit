@@ -58,4 +58,10 @@ https://github.com/github/gitignore
 Alur git clone :
 Untuk membuat dari project orang lain
 https://github.com/awesome-selfhosted/awesome-selfhosted
-1. 
+1. git clone "url clone"
+2. ikuti perintah di git hub yang ada
+
+Alur membuat branch :
+1. git branch name-of-branch 
+2. git checkout name-of-branch (pindah ke branch)
+2. git merge name-of-branch(main)
