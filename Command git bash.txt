@@ -67,3 +67,10 @@ Alur membuat branch :
 1. git branch name-of-branch 
 2. git checkout name-of-branch (pindah ke branch)
 3. git merge name-of-branch(main)
+
+Alur Fork dan Pull-Request
+(Diluar colaborasi/ tim)
+1. git clone http(clone http)
+2. Change the contain/ mengubah isi
+3. (Pull-request ke app asli) 
+4. Merge form the owner app
