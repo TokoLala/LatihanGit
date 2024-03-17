@@ -38,3 +38,6 @@ Alur git checkout : (Untuk mengulangi perintah git)
 Alur git push remote origin : (origin adalah nama remote biarkan seperti itu adanya)
 1. git remote add origin "Copy ssh dari repo yang ingin di push"
 2. git push -u origin main (main is branch)
+
+(Cara untuk mengepush jika invlid password)
+https://www.geeksforgeeks.org/git-how-to-solve-remote-invalid-username-or-password-fatal-authentication-failed/
