@@ -34,3 +34,7 @@ Alur git checkout : (Untuk mengulangi perintah git)
 2. git diff "file name" (Untuk melihat perbedaan)
 3. git checkout "file name"
 4. git log (untuk check log)
+
+Alur git push remote origin : (origin adalah nama remote biarkan seperti itu adanya)
+1. git remote add origin "Copy ssh dari repo yang ingin di push"
+2. git push -u origin main (main is branch)
