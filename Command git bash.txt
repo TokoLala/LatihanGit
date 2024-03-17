@@ -30,6 +30,8 @@ Alur git commit :
 1. Git add . (Masuk staging area)
 2. Git commit -m "message" (Masuk ke repository)
 
+Alur git : Working Directory -> Staging Area -> Local Repository -> Remote Repository
+
 cancel staging area :
 1. git rm --cached -r
 
@@ -58,4 +60,10 @@ https://github.com/github/gitignore
 Alur git clone :
 Untuk membuat dari project orang lain
 https://github.com/awesome-selfhosted/awesome-selfhosted
-1. 
+1. git clone "url clone"
+2. ikuti perintah di git hub yang ada
+
+Alur membuat branch :
+1. git branch name-of-branch 
+2. git checkout name-of-branch (pindah ke branch)
+3. git merge name-of-branch(main)
